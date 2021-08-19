@@ -36,7 +36,7 @@ I'm 23 years old, studying Engineering at Universidade Estadual de Campinas (UNI
 </p>
 
 
-<img align="right" width="100%" src="https://github-readme-stats.vercel.app/api?username=gabao55"/>
+<img align="right" width="70%" max-width="360px" src="https://github-readme-stats.vercel.app/api?username=gabao55"/>
 
 <!--
 **gabao55/gabao55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
