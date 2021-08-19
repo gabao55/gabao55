@@ -8,6 +8,9 @@ I'm 23 years old, studying Engineering at Universidade Estadual de Campinas (UNI
   <a href="https://github.com/gabao55" align="right">
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabao55"/>
   </a>
+  <a href="https://github.com/gabao55" align="right">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabao55"/>
+  </a>
 </div>
 
 ## 👩‍💻 Languages:
