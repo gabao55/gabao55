@@ -1,7 +1,7 @@
 ### Hi there, I'm Gabriel <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p>
-I'm 23 years old, studying Engineering at Universidade Estadual de Campinas (UNICAMP) in Brazil &#x1f1e7; :brazil:. Currently I'm working at LinkedIn and programming in the free time is one of my pations!
+I'm 23 years old, studying Engineering at Universidade Estadual de Campinas (UNICAMP) in Brazil. Currently I'm working at LinkedIn and programming in the free time is one of my pations!
 </p>
 
 <div>
