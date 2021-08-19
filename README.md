@@ -6,7 +6,7 @@ I'm 23 years old, studying Engineering at Universidade Estadual de Campinas (UNI
 
 <div>
   <a href="https://github.com/gabao55" align="right">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabao55"/>
+    <img align="right" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabao55"/>
   </a>
 </div>
 
