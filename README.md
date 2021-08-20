@@ -3,7 +3,7 @@
 <p>
   I'm 23 years old, studying Engineering at Universidade Estadual de Campinas (UNICAMP) in Brazil. Currently I'm working at 
   <a href="https://www.linkedin.com/in/gabriel-salateo-rosin-21800916a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>&nbsp;&nbsp;
+    LinkedIn
   </a> 
   and programming in the free time is one of my pations!
 </p>
