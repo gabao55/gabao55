@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/gabriel-salateo-rosin-21800916a/">
     LinkedIn
   </a> 
-  and programming in the free time is one of my pations! Very interested in learning more about data science and mainly software development.
+  and programming in the free time is one of my pations! Very interested in learning more each day about data science and mainly software development.
 </p>
 
 <div>
@@ -38,18 +38,3 @@
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>&nbsp;&nbsp;
 </p>
-
-<!--
-**gabao55/gabao55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
