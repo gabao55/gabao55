@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/gabriel-salateo-rosin-21800916a/">
     LinkedIn
   </a> 
-  and programming in the free time is one of my pations! Very interested in learning more each day about data science and mainly software development.
+  and programming in the free time is one of my pations! Very interested in learning more each day about data science and mainly software engineering.
 </p>
 
 <div>
