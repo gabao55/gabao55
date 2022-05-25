@@ -1,11 +1,14 @@
 ### Hi there, I'm Gabriel <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p>
-  I'm 23 years old, studying Engineering at Universidade Estadual de Campinas (UNICAMP) in Brazil. Currently, I'm working at 
+  I'm 23 years old, studying Engineering at Universidade Estadual de Campinas (UNICAMP) and Software Engineering at <a href="https://www.driven.com.br/">
+    Driven Education
+  </a> 
+  in Brazil. Currently, I'm working at 
   <a href="https://www.linkedin.com/in/gabriel-salateo-rosin-21800916a/">
     LinkedIn
   </a> 
-  and programming in the free time is one of my pations! Very interested in learning more each day about data science and mainly software engineering.
+  and programming in the free time is one of my pations! Very interested in learning more each day about software engineering.
 </p>
 
 <div>
