@@ -1,4 +1,4 @@
-### Hi there, I'm Gabriel <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there, I'm Gabriel <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 
 <p>
   I'm 23 years old, studying Engineering at Universidade Estadual de Campinas (UNICAMP) and Software Engineering at <a href="https://www.driven.com.br/">
