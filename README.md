@@ -1,7 +1,7 @@
 ### Hi there, I'm Gabriel!
 
 <p>
-  I'm 23 years old, studying Engineering at Universidade Estadual de Campinas (UNICAMP) and Software Engineering at <a href="https://www.driven.com.br/">
+  I'm 24 years old, studying Engineering at Universidade Estadual de Campinas (UNICAMP) and Software Engineering at <a href="https://www.driven.com.br/">
     Driven Education
   </a> 
   in Brazil. Currently, I'm working at 
