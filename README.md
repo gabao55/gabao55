@@ -16,12 +16,6 @@
   </a>
 </div>
 
-<div>
-  <a href="https://github.com/gabao55">
-    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=gabao55&count_private=true&show_icons=true" alt="My github       stats">
-  </a>
-</div>
-
 ## 👩‍💻 Languages:
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>&nbsp;&nbsp;
@@ -49,3 +43,9 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>&nbsp;&nbsp;
 </p>
+
+<div>
+  <a href="https://github.com/gabao55">
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=gabao55&count_private=true&show_icons=true" alt="My github       stats">
+  </a>
+</div>
