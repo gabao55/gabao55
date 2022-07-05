@@ -40,11 +40,11 @@
 </p>
 
 <div>
+  <a href="https://github.com/gabao55" align="left">
+    <img align="right" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabao55&theme=dracula&langs_count=6"/>
+  </a>
+  
   <a href="https://github.com/gabao55" align="right">
     <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=lesimoes&count_private=true&show_icons=true" alt="My github       stats">
-  </a>
-
-  <a href="https://github.com/gabao55" align="left">
-    <img align="right" width="50%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabao55&theme=dracula&langs_count=6"/>
   </a>
 </div>
