@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>&nbsp;&nbsp;
 </p>
 
-<div>
+<div style="display: flex; justify-content: space-between;">
   <a href="https://github.com/gabao55" align="left">
     <img align="right" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabao55&theme=dracula&langs_count=6"/>
   </a>
