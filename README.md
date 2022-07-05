@@ -1,4 +1,4 @@
-### Hi there, I'm Gabriel!
+<h3>Hello there, I'm Gabriel 👋</h3>
 
 <p>
   I'm 24 years old, studying Engineering at Universidade Estadual de Campinas (UNICAMP) and Software Engineering at <a href="https://www.driven.com.br/">
@@ -10,12 +10,6 @@
   </a> 
   and programming in the free time is one of my pations! Very interested in learning more each day about software engineering.
 </p>
-
-<div>
-  <a href="https://github.com/gabao55" align="right">
-    <img align="right" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabao55&theme=dracula&langs_count=6"/>
-  </a>
-</div>
 
 ## 👩‍💻 Languages:
 <p align="left">
@@ -44,3 +38,13 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>&nbsp;&nbsp;
 </p>
+
+<div>
+  <a href="https://github.com/gabao55" align="left">
+    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=lesimoes&count_private=true&show_icons=true" alt="My github       stats">
+  </a>
+
+  <a href="https://github.com/gabao55" align="right">
+    <img align="right" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabao55&theme=dracula&langs_count=6"/>
+  </a>
+</div>
