@@ -46,6 +46,6 @@
 
 <div>
   <a href="https://github.com/gabao55">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=gabao55&count_private=true&show_icons=true" alt="My github       stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=gabao55&count_private=true&show_icons=true" alt="My github       stats">
   </a>
 </div>
