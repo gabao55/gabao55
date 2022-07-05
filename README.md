@@ -11,7 +11,7 @@
   and programming in the free time is one of my pations! Very interested in learning more each day about software engineering.
 </p>
 
-<div display="flex" justify-content="space-between">
+<div  width="100%">
   <a href="https://github.com/gabao55">
     <img align="right" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabao55&theme=dracula&langs_count=6"/>
   </a>
