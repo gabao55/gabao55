@@ -17,6 +17,8 @@
   and programming in the free time is one of my pations! Very interested in learning more each day about software engineering, specially about <b>Java</b> and <b>JavaScript</b> languages and tools.
 </p>
 
+<br />
+
 ## 👩‍💻 Languages & Tools:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
