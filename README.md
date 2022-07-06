@@ -16,6 +16,12 @@
   </a>
 </div>
 
+<div>
+  <a href="https://github.com/gabao55">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=gabao55&count_private=true&show_icons=true" alt="My github       stats">
+  </a>
+</div>
+
 ## 👩‍💻 Languages & Tools:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
@@ -36,11 +42,5 @@
   </a>
   <a href="gabriel.s.rosin@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-<div>
-  <a href="https://github.com/gabao55">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=gabao55&count_private=true&show_icons=true" alt="My github       stats">
   </a>
 </div>
