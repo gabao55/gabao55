@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/gabriel-salateo-rosin-21800916a/">
     LinkedIn
   </a> 
-  and programming in the free time is one of my pations! Very interested in learning more each day about software engineering, specially about **Java** and **JavaScript** languages and tools.
+  and programming in the free time is one of my pations! Very interested in learning more each day about software engineering, specially about <b>Java</b> and <b>JavaScript<b> languages and tools.
 </p>
 <div>
   <a href="https://github.com/gabao55">
