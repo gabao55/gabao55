@@ -10,11 +10,6 @@
   </a> 
   and programming in the free time is one of my pations! Very interested in learning more each day about software engineering, specially about <b>Java</b> and <b>JavaScript</b> languages and tools.
 </p>
-<div>
-  <a href="https://github.com/gabao55">
-    <img align="right" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabao55&theme=dracula&langs_count=6"/>
-  </a>
-</div>
 
 <div>
   <a href="https://github.com/gabao55">
@@ -42,5 +37,11 @@
   </a>
   <a href="gabriel.s.rosin@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+<div>
+  <a href="https://github.com/gabao55">
+    <img align="right" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabao55&theme=dracula&langs_count=6"/>
   </a>
 </div>
