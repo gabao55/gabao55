@@ -23,8 +23,6 @@
   Another one was working with the Brazilian National Agency of Petroleum on the development of a software for predicting biodiesel properties through thermodynamical and empirical models.
 </p>
 
-<br />
-
 ## 👩‍💻 Languages & Tools:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
