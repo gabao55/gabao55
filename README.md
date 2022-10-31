@@ -40,6 +40,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
 </p>
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gabao55&theme=blue-green)
+
 ## 🚀 Contact:
 <div align="left">
   <a href="https://www.linkedin.com/in/gabriel-rosin/" target="_blank">
