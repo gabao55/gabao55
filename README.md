@@ -7,7 +7,7 @@
 </div>
 
 <p>
-  I'm 24 years old, graduated in Engineering at Universidade Estadual de Campinas (UNICAMP) and studying Back-end development with C# at <a href="https://letscode.com.br/">
+  I'm 24 years old, graduated in Engineering at Universidade Estadual de Campinas (UNICAMP) and studying Back-end development with C# and .NET at <a href="https://letscode.com.br/">
     ada
   </a> in a program partnered with <a href="https://br.credit-suisse.com/site/index.seam">
     Credit Suisse
