@@ -12,7 +12,7 @@
   </a> in a program partnered with <a href="https://br.credit-suisse.com/site/index.seam">
     Credit Suisse
   </a>
-  in Brazil. Programming is one of my pations! Very interested in learning more each day about software engineering, specially about <b>JavaScript</b> language and tools.
+  in Brazil. Programming is one of my pations! Very interested in learning more each day about software engineering, specially about <b>C#</b>, <b>.NET</b> and <b>JavaScript</b> languages and tools.
 </p>
 <br />
 <br />
