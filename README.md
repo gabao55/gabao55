@@ -7,19 +7,15 @@
 </div>
 
 <p>
-  I'm 24 years old, studying Engineering at Universidade Estadual de Campinas (UNICAMP) and Software Engineering at <a href="https://www.driven.com.br/">
+  I'm 24 years old, graduated in Engineering at Universidade Estadual de Campinas (UNICAMP) and studying Software Engineering at <a href="https://www.driven.com.br/">
     Driven Education
   </a> 
-  in Brazil. Currently, I'm working at 
-  <a href="https://www.linkedin.com/in/gabriel-salateo-rosin-21800916a/">
-    LinkedIn
-  </a>
-  and programming in the free time is one of my pations! Very interested in learning more each day about software engineering, specially about <b>JavaScript</b> language and tools.
+  in Brazil. Programming is one of my pations! Very interested in learning more each day about software engineering, specially about <b>JavaScript</b> language and tools.
 </p>
 <br />
 <br />
 <p>
-  An interesting project I worked on was the development development of a Web Application, during internship on LinkedIn, with a decision tree structure to help solve problems related to a cross-platform integration product based on Cookies technology for monitoring user activity on external websites with developers from other countries and with global impact.
+  An interesting project I worked on was the development of a Web Application, during internship on LinkedIn, with a decision tree structure to help solve problems related to a cross-platform integration product based on Cookies technology for monitoring user activity on external websites with developers from other countries and with global impact.
   Another one was working with the Brazilian National Agency of Petroleum on the development of a software for predicting biodiesel properties through thermodynamical and empirical models.
 </p>
 
