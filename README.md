@@ -7,12 +7,9 @@
 </div>
 
 <p>
-  I'm 24 years old, graduated in Engineering at Universidade Estadual de Campinas (UNICAMP) and studying Back-end development with C# and .NET at <a href="https://letscode.com.br/">
-    ada
-  </a> in a program partnered with <a href="https://br.credit-suisse.com/site/index.seam">
-    Credit Suisse
-  </a>
-  in Brazil. Programming is one of my pations! Very interested in learning more each day about software engineering, specially about <b>C#</b>, <b>.NET</b> and <b>JavaScript</b> languages and tools.
+  I'm 24 years old, graduated in Engineering at Universidade Estadual de Campinas (UNICAMP) and studying Software Engineering at <a href="https://www.driven.com.br/">
+    Driven
+  </a> on a 9 months bootcamp in Brazil. Programming is one of my pations! Very interested in learning more each day about software engineering, specially about <b>C#</b>, <b>.NET</b> and <b>JavaScript</b> languages and tools.
 </p>
 <br />
 <br />
