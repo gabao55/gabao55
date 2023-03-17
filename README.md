@@ -7,15 +7,16 @@
 </div>
 
 <p>
-  I'm 24 years old, graduated in Engineering at Universidade Estadual de Campinas (UNICAMP) and studying Software Engineering at <a href="https://www.driven.com.br/">
-    Driven
-  </a> on a 9 months bootcamp in Brazil. Programming is one of my pations! Very interested in learning more each day about software engineering, specially about <b>C#</b>, <b>.NET</b> and <b>JavaScript</b> languages and tools.
+  I'm graduated in Engineering at Universidade Estadual de Campinas (UNICAMP) and Software Engineer at <a href="https://br.credit-suisse.com/site/index.seam">
+    Credit Suisse
+  </a> in Brazil. Programming is one of my pations! Very interested in learning more each day about software engineering, specially about <b>C#</b>, <b>.NET</b> and <b>JavaScript</b> languages and tools.
 </p>
 <br />
 <br />
 <p>
   An interesting project I worked on was the development of a Web Application, during internship on LinkedIn, with a decision tree structure to help solve problems related to a cross-platform integration product based on Cookies technology for monitoring user activity on external websites with developers from other countries and with global impact.
   Another one was working with the Brazilian National Agency of Petroleum on the development of a software for predicting biodiesel properties through thermodynamical and empirical models.
+  Currently I'm working with Financial market solutions with C# and .NET, aligned with SQL Server.
 </p>
 
 ## 👩‍💻 Languages & Tools:
