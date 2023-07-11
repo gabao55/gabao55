@@ -1,11 +1,5 @@
 <h3>Hello there, I'm Gabriel 👋</h3>
 
-<div>
-  <a href="https://github.com/gabao55">
-    <img align="right" widht="33%" src="https://github-readme-stats.vercel.app/api?username=gabao55&count_private=true&show_icons=true" alt="My github       stats">
-  </a>
-</div>
-
 <p>
   I'm a Software Engineer at <a href="https://br.credit-suisse.com/site/index.seam">
     Credit Suisse
