@@ -5,14 +5,12 @@
     Credit Suisse
   </a> graduated in Engineering at Universidade Estadual de Campinas (UNICAMP) in Brazil. Programming is one of my pations! Very interested in learning more each day about software engineering, specially about <b>C#</b>, <b>.NET</b> and <b>JavaScript</b> languages and tools.
 </p>
-<br />
-<br />
 <p>
-  &emsp;Currently I'm working with Financial market solutions using C# and .NET, aligned with SQL Server.
+  Currently I'm working with Financial market solutions using C# and .NET, aligned with SQL Server.
 <br />
-  &emsp;An interesting project I worked on was the development of a Web Application, during internship on LinkedIn, with a decision tree structure to help solve problems related to a cross-platform integration product based on Cookies technology for monitoring user activity on external websites with developers from other countries and with global impact.
+  An interesting project I worked on was the development of a Web Application, during internship on LinkedIn, with a decision tree structure to help solve problems related to a cross-platform integration product based on Cookies technology for monitoring user activity on external websites with developers from other countries and with global impact.
 <br />
-  &emsp;Another one was working with the Brazilian National Agency of Petroleum on the development of a software for predicting biodiesel properties through thermodynamical and empirical models.
+  Another one was working with the Brazilian National Agency of Petroleum on the development of a software for predicting biodiesel properties through thermodynamical and empirical models.
 </p>
 
 ## 👩‍💻 Languages & Tools:
