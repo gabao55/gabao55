@@ -7,7 +7,7 @@
 </p>
 
 <p>
-  Currently I'm working with Financial market solutions using C# and .NET, aligned with SQL Server.
+  Currently I'm working with Financial market solutions using C#/.NET, SQL Server and CI/CD pipelines using Jenkins and tools such as SonarQube, NexusIQ and Octopus.
 </p>
 
 <p>
