@@ -1,8 +1,8 @@
 <h3>Hello there, I'm Gabriel 👋</h3>
 
 <p>
-  I'm a Software Engineer at <a href="https://br.credit-suisse.com/site/index.seam">
-    Credit Suisse
+  I'm a Senior Software Engineer, working as Solutions Architect at <a href="https://www.guidewire.com">
+    Guidewire
   </a> graduated in Engineering at Universidade Estadual de Campinas (UNICAMP) in Brazil. Programming is one of my pations! Very interested in learning more each day about software engineering, specially about <b>C#</b>, <b>.NET</b> and <b>JavaScript</b> languages and tools.
 </p>
 
